@@ -3,7 +3,7 @@
 AQQYL is an innovative Kazakh language tutor powered by artificial intelligence.
 
 ### 🛠 Development & Architecture
-**Developed by student. Supervisor provided methodological guidance and ensured compliance with competition rules.
+**Developed by Amanbay Almansur. Supervisor provided methodological guidance and ensured compliance with competition rules.
 AI tools were used as development assistance; student reviewed, validated, and integrated the outputs.**
 - **Architecture & Methodology:** Designed by the student under the guidance of an experienced mentor.
 - **AI Technologies:** Used as a powerful auxiliary tool to accelerate coding and UI implementation.
